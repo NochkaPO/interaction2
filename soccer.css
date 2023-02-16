@@ -1,0 +1,65 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+#field {
+  background: url(back.png);
+  width: 720px;
+  height: 480px;
+  float: left;
+}
+
+/* heroes and the ball (dragables) */
+
+.hero {
+
+   background: url(https://makereceipt.com/images/receipt-with-calculated-tip-smaller-min.jpg);
+  width: 240px;
+  height: 400px;
+float: left;
+  
+}
+
+#hero1 {
+  background-position: left;
+}
+
+#hero2 {
+  background-position: left;
+}
+
+#hero3 {
+  background-position: CENTER;
+}
+
+#hero4 {
+  background-position: left;
+}
+
+#hero5 {
+  background-position: left;
+}
+
+#hero6 {
+  background-position: left;
+}
+
+#hero7 {
+  background-position: left;
+}
+
+#hero8 {
+  background-position: left;
+}
+
+#hero9 {
+  background-position: left;
+}
+
+
+
+
+.draggable {
+  cursor: pointer;
+}
